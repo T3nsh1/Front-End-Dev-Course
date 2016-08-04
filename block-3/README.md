@@ -1,1 +1,1 @@
-This is for FE3 project
+Project FE3 - Javascript
